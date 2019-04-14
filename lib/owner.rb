@@ -69,4 +69,7 @@ attr_reader :species
     end 
   end 
   
+  def list_pets
+  end 
+  
 end
