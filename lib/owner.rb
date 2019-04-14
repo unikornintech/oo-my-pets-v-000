@@ -45,6 +45,7 @@ attr_reader :species
   def walk_dogs
     self.pets[:dogs].each do |dog|
       dog.mood = "happy"
+    end
   end
   
 end
