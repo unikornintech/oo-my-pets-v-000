@@ -43,7 +43,7 @@ attr_reader :species
   end 
   
   def walk_dogs
-    self.pets[:dogs]
+    self.pets[:dogs].each 
   end
   
 end
