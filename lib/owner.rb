@@ -48,4 +48,6 @@ attr_reader :species
     end
   end
   
+  def play_with_cats
+    
 end
