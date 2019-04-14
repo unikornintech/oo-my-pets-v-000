@@ -54,4 +54,7 @@ attr_reader :species
     end 
   end 
   
+  def feed_fish
+  end 
+  
 end
