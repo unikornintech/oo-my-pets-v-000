@@ -30,7 +30,7 @@ attr_reader :species
     "I am a human."
   end 
   
-  def buy_fish
+  def buy_fish(name)
   end 
   
 end
