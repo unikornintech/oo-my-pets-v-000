@@ -62,6 +62,8 @@ attr_reader :species
   
   def sell_pets
     self.pets.each do |type, pets|
+      pets.each do |p|
+        
     end 
   end 
   
