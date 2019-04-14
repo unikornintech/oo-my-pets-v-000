@@ -25,6 +25,9 @@ attr_reader :species
     self.all.clear
   end 
   
+  def say_species
+  end 
+  
 end
 
 
