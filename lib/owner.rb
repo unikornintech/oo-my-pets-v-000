@@ -2,9 +2,11 @@ require "pry"
 
 
 class Owner
+  
+  attr_reader :species
   @@all = []
   
-  def initialize(_)
+  def initialize(species)
     @@all << self 
   end 
   
