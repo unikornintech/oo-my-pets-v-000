@@ -4,7 +4,7 @@ require "pry"
 class Owner
   @@all = []
   
-  def initialize(_)
+  def initialize(species)
     @@all << self
   end 
   
