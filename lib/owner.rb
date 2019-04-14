@@ -5,8 +5,6 @@ class Owner
   @@all = []
   
   
-    @@all << self
-  end 
   
   def self.all
     return @@all 
