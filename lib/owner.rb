@@ -36,5 +36,6 @@ attr_reader :species
   
   def buy_cat(name)
     self.pets[:cats]
+  end
   
 end
