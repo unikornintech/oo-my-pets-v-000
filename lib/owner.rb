@@ -64,6 +64,7 @@ attr_reader :species
     self.pets.each do |type, pets|
       pets.each do |p|
         p.mood = "nervous"
+      end
     end 
   end 
   
