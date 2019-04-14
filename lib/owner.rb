@@ -3,7 +3,7 @@ require "pry"
 
 class Owner
   
-  attr_reader :species
+  
   
   @@all = []
   
