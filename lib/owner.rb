@@ -11,7 +11,7 @@ attr_reader :species
   def initialize(species)
     @@all << self 
     @species = species
-    @pets = {:cats
+    @pets = {:cats = [], :dogs = [], :fishes = [] }
   end 
   
   def self.all
