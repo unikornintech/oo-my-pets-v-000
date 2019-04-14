@@ -60,4 +60,8 @@ attr_reader :species
     end 
   end 
   
+  def sell_pets
+    
+  end 
+  
 end
