@@ -31,5 +31,3 @@ attr_reader :species
   end 
   
 end
-
-end 
